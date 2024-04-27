@@ -1,0 +1,14 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/PadyakkeExpandedOneRegular.ttf");
+  font-family: "Padyakke Expanded One";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/JuraRegular.ttf");
+  font-family: "Jura";
+  font-weight: 400;
+}
